@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(70,142,236)
+}
+header{
+    color:white;
+    text-align:center;
+}
+section{
+    background-color: white;
+    padding:15px;
+    width: 500px;
+    border-radius: 10px;
+    margin:auto;
+}
+div{
+    text-align: center;
+    padding:10px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-weight: bolder;
+}
